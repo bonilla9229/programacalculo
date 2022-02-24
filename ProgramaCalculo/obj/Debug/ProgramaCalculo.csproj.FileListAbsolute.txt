@@ -1,0 +1,15 @@
+C:\Users\Pluginn\source\repos\ProgramaCalculo\ProgramaCalculo\bin\Debug\ProgramaCalculo.exe.config
+C:\Users\Pluginn\source\repos\ProgramaCalculo\ProgramaCalculo\bin\Debug\ProgramaCalculo.exe
+C:\Users\Pluginn\source\repos\ProgramaCalculo\ProgramaCalculo\bin\Debug\ProgramaCalculo.pdb
+C:\Users\Pluginn\source\repos\ProgramaCalculo\ProgramaCalculo\obj\Debug\ProgramaCalculo.csprojAssemblyReference.cache
+C:\Users\Pluginn\source\repos\ProgramaCalculo\ProgramaCalculo\obj\Debug\MainWindow.g.cs
+C:\Users\Pluginn\source\repos\ProgramaCalculo\ProgramaCalculo\obj\Debug\App.g.cs
+C:\Users\Pluginn\source\repos\ProgramaCalculo\ProgramaCalculo\obj\Debug\ProgramaCalculo_MarkupCompile.cache
+C:\Users\Pluginn\source\repos\ProgramaCalculo\ProgramaCalculo\obj\Debug\ProgramaCalculo_MarkupCompile.lref
+C:\Users\Pluginn\source\repos\ProgramaCalculo\ProgramaCalculo\obj\Debug\MainWindow.baml
+C:\Users\Pluginn\source\repos\ProgramaCalculo\ProgramaCalculo\obj\Debug\ProgramaCalculo.g.resources
+C:\Users\Pluginn\source\repos\ProgramaCalculo\ProgramaCalculo\obj\Debug\ProgramaCalculo.Properties.Resources.resources
+C:\Users\Pluginn\source\repos\ProgramaCalculo\ProgramaCalculo\obj\Debug\ProgramaCalculo.csproj.GenerateResource.cache
+C:\Users\Pluginn\source\repos\ProgramaCalculo\ProgramaCalculo\obj\Debug\ProgramaCalculo.csproj.CoreCompileInputs.cache
+C:\Users\Pluginn\source\repos\ProgramaCalculo\ProgramaCalculo\obj\Debug\ProgramaCalculo.exe
+C:\Users\Pluginn\source\repos\ProgramaCalculo\ProgramaCalculo\obj\Debug\ProgramaCalculo.pdb
